@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="BackendStock">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <dependent-module archiveName="activation-1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/activation-1.1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="asm-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/asm-3.1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jackson-mapper-asl-1.9.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-mapper-asl-1.9.2.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jackson-xc-1.9.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-xc-1.9.2.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jackson-core-asl-1.9.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-core-asl-1.9.2.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jaxb-impl-2.2.3-1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jaxb-impl-2.2.3-1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-json-1.17.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-json-1.17.1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jettison-1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jettison-1.1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-server-1.17.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-server-1.17.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-core-1.17.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-core-1.17.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-servlet-1.17.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-servlet-1.17.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jaxb-api-2.2.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jaxb-api-2.2.2.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="stax-api-1.0-2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/stax-api-1.0-2.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="com.sun.jersey.jersey-servlet-1.17.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/com.sun.jersey.jersey-servlet-1.17.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-client-1.17.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-client-1.17.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-core-1.17.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-core-1.17.1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jackson-jaxrs-1.9.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-jaxrs-1.9.2.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="jersey-server-1.17.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-server-1.17.1.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+        <dependent-module archiveName="com.mysql.jdbc_5.1.5.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/jilan/Downloads/com.mysql.jdbc_5.1.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                        
+        
+        <property name="context-root" value="BackendStock"/>
+                        
+        
+        <property name="java-output-path" value="/BackendStock/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
