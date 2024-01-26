@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/com.mysql.jdbc_5.1.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/activation-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/asm-3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/com.sun.jersey.jersey-servlet-1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-core-asl-1.9.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-jaxrs-1.9.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-mapper-asl-1.9.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jackson-xc-1.9.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jaxb-api-2.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jaxb-impl-2.2.3-1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-client-1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-core-1.17.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-core-1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-json-1.17.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-server-1.17.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-server-1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jersey-servlet-1.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/jettison-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jilan/OneDrive/Bureau/L3-DSI-2/SOA/Nouveau dossier/jersey/stax-api-1.0-2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5 (2)">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/com.sun.jersey.jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-core-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-server-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/jersey/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mohamed/Downloads/Nouveau dossier/javax.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

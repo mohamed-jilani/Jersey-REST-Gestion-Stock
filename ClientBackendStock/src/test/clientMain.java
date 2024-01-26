@@ -33,7 +33,7 @@ public class clientMain {
 	
 		
 	        Client client = Client.create(new DefaultClientConfig());
-	        URI uri = UriBuilder.fromUri("http://localhost:8080/BackendStock/api").build();
+	        URI uri = UriBuilder.fromUri("http://localhost:8085/BackendStock/api").build();
 
 	        while (true) {
 	            
